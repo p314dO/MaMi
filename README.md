@@ -1,4 +1,4 @@
-<h1 align="center">MaMi 🤖📱</h1>h1>
+<h1 align="center">MaMi 🤖📱</h1>
 
 **MaMi** is your **multipurpose ADB toolkit** to manage, extract, uninstall, and explore Android apps **straight from your terminal**.
 
