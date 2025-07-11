@@ -1,7 +1,7 @@
 <h1 align="center">MaMi 🤖📱</h1>
 
 <p align="center">
-<img src='./mami.jpg' alt='logo' width='300'/>
+<img src='./mami.jpg' alt='logo' width='600'/>
 </p>
 
 **MaMi** is your **multipurpose ADB toolkit** to manage, extract, uninstall, and explore Android apps **straight from your terminal**.
